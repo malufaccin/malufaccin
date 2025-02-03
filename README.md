@@ -1,12 +1,14 @@
 <br clear="both">
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cookie&size=46&duration=4962&pause=1000&color=F793DE&center=true&vCenter=true&width=441&height=56&lines=Hello+world%2C+I'm+Malu+Faccin+!)](https://git.io/typing-svg)
+</div>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img height="200" src="https://i.gifer.com/1FaM.gif"  />
 </div>
 
