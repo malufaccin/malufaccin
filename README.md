@@ -1,23 +1,20 @@
-
- ##  <div align="center"> 👋 Hi! I’m `@malufaccin`, welcome to my `GitHub profile` (●'◡'●).</div>
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&weight=100&size=26&duration=4962&pause=1000&color=F793DE&center=true&width=441&height=56&lines=Hello+world%2C+I'm+Malu+Faccin+!)](https://git.io/typing-svg)
 
 
 <div>
-   <img align="right" alt="malufaccin" width="230" height="230" src=""https://i.gifer.com/1FaM.gif">
+   <img height="200" src="https://i.gifer.com/1FaM.gif"  />
 
 - 💻 Sou apaixonada por tecnologia, mídias digitais e programação.
 
 - 🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UVV.
 
 - 🌱  Além de programar, estudo Análise de dados, em sites de Business Intelligence
-- 
+
 </div>
 
 <br>
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Repositorios+favoritos" alt="Typing SVG" /></a>
 <div align="center">
 <a href="https://github.com/malufaccin/SweetShop">
   <picture>
@@ -40,7 +37,7 @@
 <p align="center"><br>
   <a href="https://github.com/malufaccin?tab=repositories">
     <picture>
-      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFA4C7?style=for-the-badge&logoColor=fff&logo=repo" alt="All Repositories" title="All Repositories" />
+      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFA4C7?style=for-the-badge&logoColor=fff&logo=repo" alt="All Repositories" title="Outros repositórios" />
     </picture>
   </a>
 </p>
@@ -84,7 +81,7 @@
 
 
 
-## 📲 Connect with me:
+## 📲 Minhas redes sociais:
 <div  align="center">
 <a href="https://www.linkedin.com/in/maria-luiza-faccin/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-ffa4c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
