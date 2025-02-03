@@ -1,12 +1,10 @@
 <br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cookie&size=46&duration=4962&pause=1000&color=F793DE&center=true&width=441&height=56&lines=+++++++++++Hello+world%2C+I'm+Malu+Faccin+!)](https://git.io/typing-svg)
+<h2 align="center">Hello World! I'm Malu Faccin</h2>
 
 ###
 
-<br clear="both">
-
-<div align="center">
+<div align="left">
   <img height="200" src="https://i.gifer.com/1FaM.gif"  />
 </div>
 
@@ -52,3 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
+###
+
+<p align="left">Hello World!!</p>
+
+###
