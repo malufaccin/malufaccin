@@ -63,7 +63,7 @@
 </div>
 
 
-##  📊 Stats  
+##  Sobre meu Github  
 <div align="center">
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malufaccin&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
 
@@ -81,7 +81,7 @@
 
 
 
-## 📲 Minhas redes sociais:
+## Minhas redes sociais:
 <div  align="center">
 <a href="https://www.linkedin.com/in/maria-luiza-faccin/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-ffa4c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
