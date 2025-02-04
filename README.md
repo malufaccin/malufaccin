@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&weight=100&size=26&duration=4962&pause=1000&color=F793DE&center=true&width=441&height=56&lines=Hello+world%2C+I'm+Malu+Faccin+!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SilkScreen&size=19&duration=4962&pause=1000&color=F793DE&center=true&width=441&height=56&lines=Hello+world%2C+I'm+Malu+Faccin+!)](https://git.io/typing-svg)
 
 <div>
    <img height="200" src="https://i.gifer.com/1FaM.gif"  />
