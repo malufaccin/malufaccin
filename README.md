@@ -7,7 +7,7 @@
 
 - 🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UVV.
 
-- 🌱  Além de programar, estudo Análise de dados, em sites de Business Intelligence
+- 🌱  Além de programar, estudo Data Science e Business Intelligence.
 
 </div>
 
