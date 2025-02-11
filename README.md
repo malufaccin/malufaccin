@@ -5,7 +5,7 @@
 
 - 💻 Sou apaixonada por tecnologia, mídias digitais e programação.
 
-- 🎓 Atualmente, estou cursando Ciência da Computação na UVV.
+- 🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UVV.
 
 - 🌱  Além de programar, estudo Análise de dados, em sites de Business Intelligence
 
