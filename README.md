@@ -22,9 +22,9 @@
   </picture>
 </a>
 
-<a href="https://github.com/malufaccin/BiblioTech">
+<a href="https://github.com/malufaccin/Portfolio">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=malufaccin&repo=BiblioTech&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=malufaccin&repo=Portfolio&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" />
   </picture>
 </a>
 
