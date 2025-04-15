@@ -28,9 +28,9 @@
   </picture>
 </a>
 
-<a href="https://github.com/malufaccin/MyBookVibes">
+<a href="https://github.com/malufaccin/sistemabancario">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=malufaccin&repo=MyBookVibes&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="AtividadeListas_JAVA" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=malufaccin&repo=sistemabancario&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="Sistema Bancario" />
   </picture>
 </a>
 
